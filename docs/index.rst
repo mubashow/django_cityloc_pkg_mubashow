@@ -6,7 +6,7 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_citiloc_pkg_mubashow
+.. automodule:: django_cityloc_pkg_mubashow
     :members:
 
 
